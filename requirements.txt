@@ -1,0 +1,8 @@
+tensorflow
+numpy
+matplotlib
+tensorflow-hub
+tfds-nightly
+ipykernel
+tensorflow-text
+pydot
